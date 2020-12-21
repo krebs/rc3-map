@@ -1,4 +1,1 @@
-# world-map-starterkit
-
-This repositor is intended to give you an overview over the features in the world as well as a good starting point for creating your own maps! Feel free to use and change them!
-
+to test this just join: http://play.workadventu.re/_/myx-iuw-dfm/krebs.github.io/rc3-map/small.json
