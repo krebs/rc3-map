@@ -103,7 +103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/codi.lassul.us\/zjEhBQViQ4iTKq060tPPVA"
+                 "value":"https:\/\/zumpad.zum.de\/p\/nixos"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -299,7 +299,7 @@
         }, 
         {
          "color":"#000000",
-         "draworder":"topdown",
+         "draworder":"index",
          "id":25,
          "name":"noob_room_text",
          "objects":[
@@ -336,6 +336,7 @@
                  "y":421.637261223503
                 }],
          "opacity":1,
+         "tintcolor":"#000000",
          "type":"objectgroup",
          "visible":true,
          "x":0,
