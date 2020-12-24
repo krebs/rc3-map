@@ -315,23 +315,7 @@
          "draworder":"topdown",
          "id":7,
          "name":"floorLayer",
-         "objects":[
-                {
-                 "height":19,
-                 "id":5,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"Hello World",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":91.4375,
-                 "x":502.410531857016,
-                 "y":397.805553316676
-                }],
+         "objects":[],
          "opacity":1,
          "tintcolor":"#fc000000",
          "type":"objectgroup",
