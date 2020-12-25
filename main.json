@@ -838,6 +838,32 @@
          "tilecount":64,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":14,
+         "firstgid":3732,
+         "image":"tiles_png\/lpc-hakuna-matetee\/scifi_space_rpg_tiles_lpcized_0.png",
+         "imageheight":256,
+         "imagewidth":448,
+         "margin":0,
+         "name":"lpc-hakuna-matetee",
+         "spacing":0,
+         "tilecount":112,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":4,
+         "firstgid":3844,
+         "image":"tiles_png\/lpc-hakuna-matetee\/hakuna_matetee2.png",
+         "imageheight":160,
+         "imagewidth":128,
+         "margin":0,
+         "name":"lpc-hakuna-matetee-furniture",
+         "spacing":0,
+         "tilecount":20,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
