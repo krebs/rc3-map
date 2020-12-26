@@ -850,11 +850,6 @@
          "spacing":0,
          "tilecount":1089,
          "tileheight":32,
-         "tileoffset":
-            {
-             "x":-6,
-             "y":-10
-            },
          "tilewidth":32
         }],
  "tilewidth":32,
