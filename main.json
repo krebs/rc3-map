@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start"
+                 "value":"{<lobby>\/maps\/software.json#start_nixos}"
                 }],
          "type":"tilelayer",
          "visible":true,
