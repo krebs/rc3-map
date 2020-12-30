@@ -65,9 +65,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"getBadge",
                  "type":"string",
-                 "value":"https:\/\/rc3.world\/rc3\/me\/redeem_badge\/WWjs1xqLAt4vsla3TJ6g6MdnAGAF0dL69fC1y0McbeVWHuev4h"
+                 "value":"WWjs1xqLAt4vsla3TJ6g6MdnAGAF0dL69fC1y0McbeVWHuev4h"
                 }],
          "type":"tilelayer",
          "visible":true,
