@@ -51,24 +51,6 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3411, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":20,
-         "id":41,
-         "name":"token",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"WWjs1xqLAt4vsla3TJ6g6MdnAGAF0dL69fC1y0McbeVWHuev4h"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":20,
-         "x":0,
-         "y":0
-        }, 
-        {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 0, 0, 0, 0, 0, 0, 0, 0, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 0, 0, 0, 0, 0, 0, 0, 0, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 0, 0, 0, 0, 0, 0, 0, 0, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 0, 0, 0, 0, 0, 0, 0, 0, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1156, 1156, 1156, 1156, 1156, 1156, 1156, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1165, 1165, 1165, 1165, 1165, 1165, 1165, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1165, 1165, 1165, 1165, 1165, 1165, 1165, 1181, 1181, 1181, 1181, 1181, 0, 0, 0, 0, 0, 0, 0, 0, 1165, 1165, 1165, 1165, 1165, 1165, 1165, 1181, 1181, 1181, 1181, 1181, 0, 0, 0, 0, 0, 0, 0, 0, 1165, 1165, 1165, 1165, 1165, 1165, 1165, 1181, 1181, 1181, 1181, 1181, 0, 0, 0, 0, 0, 0, 0, 0, 1165, 1165, 1165, 1165, 1165, 1165, 1165],
          "height":20,
          "id":34,
@@ -168,6 +150,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -290,6 +278,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-overlay",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -303,6 +297,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -316,6 +316,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -329,6 +335,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-colors-128",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -342,6 +354,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"23_tisch_weiss_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -355,6 +373,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"57_zettelfoo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -368,6 +392,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"65_tischdokumente_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -381,6 +411,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"c3gelb",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -394,6 +430,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"misc_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":52,
          "tileheight":32,
@@ -407,6 +449,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"misc",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -513,6 +561,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"10_coffee",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -526,6 +580,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"broken_glass_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -539,6 +599,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -613,6 +679,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -626,6 +698,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"krebs_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,

@@ -324,6 +324,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -446,6 +452,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-overlay",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -459,6 +471,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -472,6 +490,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -485,6 +509,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-colors-128",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -498,6 +528,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"23_tisch_weiss_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -511,6 +547,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"57_zettelfoo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -524,6 +566,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"65_tischdokumente_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -537,6 +585,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"c3gelb",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -550,6 +604,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"misc_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":52,
          "tileheight":32,
@@ -563,6 +623,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"misc",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -669,6 +735,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"10_coffee",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -682,6 +754,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"broken_glass_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -695,6 +773,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -769,6 +853,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -782,6 +872,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"krebs_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -795,6 +891,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"lpc-hakuna-matetee",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":144,
          "tileheight":32,
@@ -808,6 +910,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"lpc-hakuna-matetee-furniture",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":20,
          "tileheight":32,
@@ -821,6 +929,12 @@
          "imagewidth":448,
          "margin":0,
          "name":"sci-fi-Interior-tiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":84,
          "tileheight":32,
@@ -834,6 +948,12 @@
          "imagewidth":1056,
          "margin":0,
          "name":"labels",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1089,
          "tileheight":32,
