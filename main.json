@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/software.json#start_nixos}"
+                 "value":"lobby#start_nixos"
                 }],
          "type":"tilelayer",
          "visible":true,
