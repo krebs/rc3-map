@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"lobby#start_nixos"
+                 "value":"world:\/\/lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
