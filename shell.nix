@@ -1,6 +1,8 @@
-{ pkgs ? import (fetchTarball https://nixos.org/channels/nixos-unstable/nixexprs.tar.xz) { } }:
+{ pkgs ?  import <nixpkgs> {} }:
 pkgs.mkShell {
-  buildInputs = [
+
+  buildInputs = with pkgs; [
     pkgs.tiled
   ];
+
 }

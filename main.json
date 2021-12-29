@@ -294,8 +294,29 @@
  "nextlayerid":55,
  "nextobjectid":6,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"MIT"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"nixos is a distribution send by the gods : https:\/\/nixos.org"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/krebs\/rc3-map"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"rc3 nixos assembly map"
+        }],
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -771,12 +792,6 @@
                 }, 
                 {
                  "id":1,
-                 "properties":[
-                        {
-                         "name":"startLayer",
-                         "type":"bool",
-                         "value":true
-                        }],
                  "type":"START"
                 }, 
                 {
@@ -785,22 +800,10 @@
                 }, 
                 {
                  "id":3,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }],
                  "type":"BLOCK"
                 }, 
                 {
                  "id":4,
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
                  "type":"SILENT"
                 }, 
                 {
@@ -817,12 +820,6 @@
                 }, 
                 {
                  "id":8,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/streaming.media.ccc.de\/"
-                        }],
                  "type":"URL"
                 }],
          "tilewidth":32
@@ -943,6 +940,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.5,
  "width":20
 }
