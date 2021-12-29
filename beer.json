@@ -148,7 +148,7 @@
          "value":"lassuls beer dungeon"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -632,6 +632,12 @@
                 }, 
                 {
                  "id":3,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "type":"BLOCK"
                 }, 
                 {
@@ -696,6 +702,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":20
 }
